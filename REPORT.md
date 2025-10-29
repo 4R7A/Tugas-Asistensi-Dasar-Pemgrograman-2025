@@ -36,3 +36,13 @@ Berikut adalah catatan perbaikan (bug fix) dan refactor yang dilakukan pada file
 
 ### Commit 6: Docs - Penambahan Laporan
 * Membuat file `REPORT.md` dan mencatat semua perubahan yang telah dilakukan.
+
+---
+
+## Contoh Input/Output Program
+
+Berikut adalah contoh eksekusi program setelah semua perbaikan dilakukan:
+
+Ingfo nama: Arya Syarif P Umur: 19 NRP dong biar tau: 5022251259 Jumlah matkul Semester ini berapa: 3 Masukkan nilai matkul 1 tersebut 88 Masukkan SKS matkul 1 tersebut 3 Masukkan nilai matkul 2 tersebut 70 Masukkan SKS matkul 2 tersebut 2 Masukkan nilai matkul 3 tersebut 78 Masukkan SKS matkul 3 tersebut 3
+
+Nama: Arya Syarif Umur: 19 NRP: 5022251259 Indeks nilai matkul 1: A Indeks nilai matkul 2: B Indeks nilai matkul 3: AB Indeks Prestasi (IP) Rata-rata: 80.25 (AB)
